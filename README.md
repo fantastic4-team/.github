@@ -64,28 +64,24 @@
 <table width="100%">
   <tr align="center">
     <td width="25%">
-      <b>Karthick</b><br>
-      <code>Full-Stack & Systems Architecture Lead</code><br><br>
-      <a href="https://github.com/karthick-aidev"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/karthick-aidev/"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white"></a>
+      <b>Souradeep Pradhan</b><br>
+      <code>Team Lead & Frontend Engineering</code><br><br>
+      <a href="https://github.com/pradhan-not-found"><img src="https://img.shields.io/badge/GitHub-pradhan--not--found-black?style=flat-square&logo=github&logoColor=white"></a>
     </td>
     <td width="25%">
-      <b>Squad Member 02</b><br>
-      <code>Frontend Engineering & Design Systems</code><br><br>
-      <a href="https://github.com/fantastic4-team"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
-      <a href="https://github.com/fantastic4-team"><img src="https://img.shields.io/badge/Profile-black?style=flat-square&logo=shield&logoColor=white"></a>
+      <b>Aniruddha Das</b><br>
+      <code>Backend Engineering & Systems</code><br><br>
+      <a href="https://github.com/fantastic4-team"><img src="https://img.shields.io/badge/GitHub-Backend-black?style=flat-square&logo=github&logoColor=white"></a>
     </td>
     <td width="25%">
       <b>Squad Member 03</b><br>
-      <code>Distributed Backend & Cloud Infrastructure</code><br><br>
-      <a href="https://github.com/fantastic4-team"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
-      <a href="https://github.com/fantastic4-team"><img src="https://img.shields.io/badge/Profile-black?style=flat-square&logo=shield&logoColor=white"></a>
+      <code>Cloud Infrastructure & DevOps</code><br><br>
+      <a href="https://github.com/fantastic4-team"><img src="https://img.shields.io/badge/GitHub-fantastic4--team-black?style=flat-square&logo=github&logoColor=white"></a>
     </td>
     <td width="25%">
       <b>Squad Member 04</b><br>
       <code>Applied AI & Data Systems Specialist</code><br><br>
-      <a href="https://github.com/fantastic4-team"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
-      <a href="https://github.com/fantastic4-team"><img src="https://img.shields.io/badge/Profile-black?style=flat-square&logo=shield&logoColor=white"></a>
+      <a href="https://github.com/fantastic4-team"><img src="https://img.shields.io/badge/GitHub-fantastic4--team-black?style=flat-square&logo=github&logoColor=white"></a>
     </td>
   </tr>
 </table>
