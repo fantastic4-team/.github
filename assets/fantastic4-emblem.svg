@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <!-- Background circle for high contrast -->
+    <radialGradient id="f4bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#161e2e" />
+      <stop offset="100%" stop-color="#0b0f19" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Base background -->
+  <circle cx="50" cy="50" r="48" fill="url(#f4bg)" />
+  
+  <!-- Outer Circle Ring -->
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#FFFFFF" stroke-width="3" />
+  <!-- Inner Concentric Ring -->
+  <circle cx="50" cy="50" r="39" fill="none" stroke="#FFFFFF" stroke-width="1.8" opacity="0.9" />
+
+  <!-- Fantastic 4 Main Glyph (White Silhouette) -->
+  <path d="
+    M 47,19 
+    L 57,19 
+    L 57,51 
+    L 73,51 
+    L 73,63 
+    L 57,63 
+    L 57,80 
+    L 46,80 
+    L 46,63 
+    L 18,63 
+    L 18,52 
+    Z
+    M 46,51 
+    L 46,31 
+    L 29,51 
+    Z"
+    fill="#FFFFFF"
+    fill-rule="evenodd"
+  />
+
+  <!-- Inline Tech Grooves (Dark contrast centerline matching the emblem) -->
+  <line x1="51.5" y1="20" x2="51.5" y2="79" stroke="#0b0f19" stroke-width="1.8" stroke-linecap="square" />
+  <line x1="22" y1="57" x2="70" y2="57" stroke="#0b0f19" stroke-width="1.8" stroke-linecap="square" />
+  <line x1="49" y1="27" x2="24" y2="57" stroke="#0b0f19" stroke-width="1.8" stroke-linecap="square" />
+</svg>
