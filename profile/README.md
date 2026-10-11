@@ -18,55 +18,49 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="15%" align="center" valign="middle">
-        <img src="./assets/square.png" width="85px" alt="Square" style="border-radius: 8px;"/>
+      <td rowspan="2" width="15%" align="center" valign="middle">
+        <img src="./assets/square.png" width="110" alt="Fantastic 4 Visual" style="border-radius: 8px; display: block;"/>
       </td>
-      <td width="70%" align="center" valign="middle">
-        <table width="100%">
-          <tr align="center">
-            <th width="16%">GitHub</th>
-            <th width="16%">Discord</th>
-            <th width="16%">Core Repo</th>
-            <th width="16%">Website</th>
-            <th width="16%">Gmail</th>
-            <th width="16%">LinkedIn</th>
-          </tr>
-          <tr align="center">
-            <td>
-              <a href="https://github.com/fantastic4-team" target="_blank">
-                <img src="https://skillicons.dev/icons?i=github" width="36px" alt="GitHub"/>
-              </a>
-            </td>
-            <td>
-              <a href="https://discord.com" target="_blank">
-                <img src="https://skillicons.dev/icons?i=discord" width="36px" alt="Discord"/>
-              </a>
-            </td>
-            <td>
-              <a href="https://github.com/fantastic4-team/fantastic4-team" target="_blank">
-                <img src="https://skillicons.dev/icons?i=git" width="36px" alt="Core Repo"/>
-              </a>
-            </td>
-            <td>
-              <a href="https://github.com/fantastic4-team" target="_blank">
-                <img src="https://img.icons8.com/color/48/domain--v1.png" width="36px" alt="Website"/>
-              </a>
-            </td>
-            <td>
-              <a href="mailto:fantastic4.team.dev@gmail.com" target="_blank">
-                <img src="https://skillicons.dev/icons?i=gmail" width="36px" alt="Gmail"/>
-              </a>
-            </td>
-            <td>
-              <a href="https://www.linkedin.com/in/karthick-aidev/" target="_blank">
-                <img src="https://skillicons.dev/icons?i=linkedin" width="36px" alt="LinkedIn"/>
-              </a>
-            </td>
-          </tr>
-        </table>
+      <th width="11%" align="center">GitHub</th>
+      <th width="11%" align="center">Discord</th>
+      <th width="11%" align="center">Core Repo</th>
+      <th width="11%" align="center">Website</th>
+      <th width="11%" align="center">Gmail</th>
+      <th width="11%" align="center">LinkedIn</th>
+      <td rowspan="2" width="15%" align="center" valign="middle">
+        <img src="./assets/square.png" width="110" alt="Fantastic 4 Visual" style="border-radius: 8px; display: block;"/>
       </td>
-      <td width="15%" align="center" valign="middle">
-        <img src="./assets/square.png" width="85px" alt="Square" style="border-radius: 8px;"/>
+    </tr>
+    <tr align="center">
+      <td valign="middle">
+        <a href="https://github.com/fantastic4-team" target="_blank">
+          <img src="https://skillicons.dev/icons?i=github" width="42px" alt="GitHub"/>
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="https://discord.com" target="_blank">
+          <img src="https://skillicons.dev/icons?i=discord" width="42px" alt="Discord"/>
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/fantastic4-team/fantastic4-team" target="_blank">
+          <img src="https://skillicons.dev/icons?i=git" width="42px" alt="Core Repo"/>
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/fantastic4-team" target="_blank">
+          <img src="https://img.icons8.com/color/48/domain--v1.png" width="42px" alt="Website"/>
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="mailto:fantastic4.team.dev@gmail.com" target="_blank">
+          <img src="https://skillicons.dev/icons?i=gmail" width="42px" alt="Gmail"/>
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="https://www.linkedin.com/in/karthick-aidev/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="42px" alt="LinkedIn"/>
+        </a>
       </td>
     </tr>
   </table>
