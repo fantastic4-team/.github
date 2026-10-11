@@ -2,7 +2,9 @@
   <img src="./assets/banner.png" alt="Fantastic 4 Team Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
 </div>
 
-### About Fantastic 4
+<div align="center" style="margin-top: 20px; margin-bottom: 10px;">
+  <img src="./assets/about-us-banner.png" alt="About Us" width="100%" style="border-radius: 6px;">
+</div>
 
 <table width="100%">
   <tr>
@@ -66,7 +68,7 @@
   </table>
 </div>
 
-<div style="margin: 25px 0;">
+<div style="margin: 20px 0;">
   <table width="100%">
     <tr>
       <td width="75%">
@@ -102,7 +104,9 @@
   </table>
 </div>
 
-### Squad Leadership & Division Roles
+<div align="center" style="margin-top: 25px; margin-bottom: 10px;">
+  <img src="./assets/team-banner.png" alt="Teams" width="100%" style="border-radius: 6px;">
+</div>
 
 <table width="100%">
   <tr align="center">
@@ -129,7 +133,9 @@
   </tr>
 </table>
 
-### Technology Stack & Engineering Ecosystem
+<div align="center" style="margin-top: 25px; margin-bottom: 10px;">
+  <img src="./assets/tech-stack-banner.png" alt="Tech Stack" width="100%" style="border-radius: 6px;">
+</div>
 
 <div align="center">
   <table width="100%">
@@ -188,29 +194,29 @@
   </table>
 </div>
 
-<br>
-
-### Engineering Standards & Execution Principles
+<div align="center" style="margin-top: 25px; margin-bottom: 10px;">
+  <img src="./assets/our-motivation-banner.png" alt="Our Motivation" width="100%" style="border-radius: 6px;">
+</div>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b>Resilient Distributed Foundations</b><br>
-      Architected for high concurrency, fault isolation, and clean microservice separation, ensuring systems stay stable under presentation and production load.
+      <b>Solving High-Impact Real-World Problems</b><br>
+      Driven by a mission to address authentic human and operational bottlenecks. We build practical, resilient software engineered to deliver immediate real-world value beyond hackathon prototypes.
     </td>
     <td width="50%" valign="top">
-      <b>High-Velocity Prototyping</b><br>
-      Rapid translation of complex problem statements into functional, high-fidelity prototypes without compromising code structure or security.
+      <b>Unyielding Competitive Spirit & Growth</b><br>
+      Every competition is our crucible for refinement. Win or lose, our motto is relentless persistence—we analyze outcomes, evolve our engineering patterns, and return to the arena stronger and faster.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>Automated Deployment & Testing</b><br>
-      Repeatable containerized configurations and continuous delivery pipelines that streamline live demos and multi-environment releases.
+      <b>Resilient Distributed Foundations</b><br>
+      We reject throwaway hacks. Every platform is architected with modular microservices, fault isolation, strict data consistency, and high-concurrency patterns engineered to scale straight into production.
     </td>
     <td width="50%" valign="top">
-      <b>Clean Architecture & Documentation</b><br>
-      Strict modular code standards, well-defined API contracts, and comprehensive technical documentation across every hackathon track repository.
+      <b>High-Velocity Teamwork & Relentless Craft</b><br>
+      Thriving under intense hackathon countdowns through deep collaboration, shared technical ownership, uncompromising code quality, and continuous curiosity across modern technologies.
     </td>
   </tr>
 </table>

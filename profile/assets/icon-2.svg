@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <radialGradient id="f2bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#161e2e" />
+      <stop offset="100%" stop-color="#0b0f19" />
+    </radialGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="url(#f2bg)" />
+  <!-- Outer Circle Ring -->
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#FFFFFF" stroke-width="3" />
+  <!-- Inner Concentric Ring -->
+  <circle cx="50" cy="50" r="39" fill="none" stroke="#FFFFFF" stroke-width="1.8" opacity="0.9" />
+  <!-- Numeral 2 Body -->
+  <path d="
+    M 28,34
+    C 28,24 38,20 50,20
+    C 62,20 71,26 71,36
+    C 71,46 62,54 48,64
+    L 72,64
+    L 72,76
+    L 28,76
+    L 28,66
+    C 45,52 60,44 60,36
+    C 60,30 55,28 50,28
+    C 43,28 39,32 39,37
+    Z"
+    fill="#FFFFFF"
+  />
+  <!-- Inline Groove -->
+  <path d="
+    M 33,35
+    C 33,25 41,24 50,24
+    C 59,24 65,28 65,36
+    C 65,44 54,53 40,65
+    L 70,65
+    M 30,71
+    L 70,71"
+    fill="none"
+    stroke="#0b0f19"
+    stroke-width="1.8"
+    stroke-linecap="round"
+  />
+</svg>
