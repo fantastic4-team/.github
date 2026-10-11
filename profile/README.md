@@ -129,5 +129,7 @@
 <br>
 
 <div align="center">
+  <img src="./assets/footer.png" alt="Fantastic 4 Footer" width="100%" style="border-radius: 12px; margin-top: 15px;">
+  <br><br>
   <sub>© 2026 <b><a href="https://github.com/fantastic4-team">Fantastic 4 Team</a></b> • Engineering Resilient Systems for Competitive Innovation.</sub>
 </div>
